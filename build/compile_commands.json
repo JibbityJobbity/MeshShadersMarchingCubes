@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/srvdrive/Dreaming_In_Code/Thesis Stuff/MarchingSquares/build",
+  "command": "/usr/bin/c++ -O3 -DNDEBUG -std=gnu++17 -o MarchingSquares/CMakeFiles/MarchingSquares.dir/VulkanRenderer.cpp.o -c \"/mnt/srvdrive/Dreaming_In_Code/Thesis Stuff/MarchingSquares/MarchingSquares/VulkanRenderer.cpp\"",
+  "file": "/mnt/srvdrive/Dreaming_In_Code/Thesis Stuff/MarchingSquares/MarchingSquares/VulkanRenderer.cpp"
+},
+{
+  "directory": "/mnt/srvdrive/Dreaming_In_Code/Thesis Stuff/MarchingSquares/build",
+  "command": "/usr/bin/c++ -O3 -DNDEBUG -std=gnu++17 -o MarchingSquares/CMakeFiles/MarchingSquares.dir/MeshShaderHelloTriangleVK.cpp.o -c \"/mnt/srvdrive/Dreaming_In_Code/Thesis Stuff/MarchingSquares/MarchingSquares/MeshShaderHelloTriangleVK.cpp\"",
+  "file": "/mnt/srvdrive/Dreaming_In_Code/Thesis Stuff/MarchingSquares/MarchingSquares/MeshShaderHelloTriangleVK.cpp"
+},
+{
+  "directory": "/mnt/srvdrive/Dreaming_In_Code/Thesis Stuff/MarchingSquares/build",
+  "command": "/usr/bin/c++ -O3 -DNDEBUG -std=gnu++17 -o MarchingSquares/CMakeFiles/MarchingSquares.dir/FileObserver.cpp.o -c \"/mnt/srvdrive/Dreaming_In_Code/Thesis Stuff/MarchingSquares/MarchingSquares/FileObserver.cpp\"",
+  "file": "/mnt/srvdrive/Dreaming_In_Code/Thesis Stuff/MarchingSquares/MarchingSquares/FileObserver.cpp"
+}
+]

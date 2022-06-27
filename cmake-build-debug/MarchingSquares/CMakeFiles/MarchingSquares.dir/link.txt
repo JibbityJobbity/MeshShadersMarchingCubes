@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/MarchingSquares.dir/VulkanRenderer.cpp.o CMakeFiles/MarchingSquares.dir/MeshShaderHelloTriangleVK.cpp.o CMakeFiles/MarchingSquares.dir/FileObserver.cpp.o -o MarchingSquares  -lvulkan -lglfw -ldl -lpthread -lshaderc_combined -lglslang -lSPIRV 

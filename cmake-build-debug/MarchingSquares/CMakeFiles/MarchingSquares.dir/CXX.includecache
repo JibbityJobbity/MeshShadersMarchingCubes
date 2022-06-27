@@ -1,0 +1,82 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/srvdrive/Dreaming_In_Code/Thesis Stuff/MarchingSquares/MarchingSquares/FileObserver.h
+thread
+-
+string
+-
+filesystem
+-
+chrono
+-
+
+/mnt/srvdrive/Dreaming_In_Code/Thesis Stuff/MarchingSquares/MarchingSquares/VulkanRenderer.cpp
+VulkanRenderer.h
+/mnt/srvdrive/Dreaming_In_Code/Thesis Stuff/MarchingSquares/MarchingSquares/VulkanRenderer.h
+stdafx.h
+/mnt/srvdrive/Dreaming_In_Code/Thesis Stuff/MarchingSquares/MarchingSquares/stdafx.h
+
+/mnt/srvdrive/Dreaming_In_Code/Thesis Stuff/MarchingSquares/MarchingSquares/VulkanRenderer.h
+vulkan/vulkan.hpp
+-
+GLFW/glfw3.h
+-
+GLFW/glfw3native.h
+-
+glm/glm.hpp
+-
+iostream
+-
+fstream
+-
+stdexcept
+-
+algorithm
+-
+vector
+-
+cstring
+-
+cstdlib
+-
+cstdint
+-
+array
+-
+optional
+-
+set
+-
+map
+-
+wrappers.h
+/mnt/srvdrive/Dreaming_In_Code/Thesis Stuff/MarchingSquares/MarchingSquares/wrappers.h
+FileObserver.h
+/mnt/srvdrive/Dreaming_In_Code/Thesis Stuff/MarchingSquares/MarchingSquares/FileObserver.h
+
+/mnt/srvdrive/Dreaming_In_Code/Thesis Stuff/MarchingSquares/MarchingSquares/stdafx.h
+vulkan/vulkan.hpp
+-
+GLFW/glfw3.h
+-
+GLFW/glfw3native.h
+-
+glm/glm.hpp
+-
+shaderc/shaderc.hpp
+-
+cstdint
+-
+
+/mnt/srvdrive/Dreaming_In_Code/Thesis Stuff/MarchingSquares/MarchingSquares/wrappers.h
+string
+-
+vulkan/vulkan.hpp
+-
+

@@ -1,0 +1,6 @@
+# ninja log v5
+4624	4911	1636950419472771831	MarchingSquares/MarchingSquares	f3fb2788dd3e3e9f
+3	4623	1636950419182770866	MarchingSquares/CMakeFiles/MarchingSquares.dir/VulkanRenderer.cpp.o	dc766e5ff78f145a
+3	2788	1636950417348764760	MarchingSquares/CMakeFiles/MarchingSquares.dir/MeshShaderHelloTriangleVK.cpp.o	e1f6a74e24133c88
+3	2733	1636950417293764577	MarchingSquares/CMakeFiles/MarchingSquares.dir/FileObserver.cpp.o	7e85169e26970797
+1	14	0	clean	a31eedcededa8236
